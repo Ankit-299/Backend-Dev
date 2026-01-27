@@ -1,3 +1,3 @@
 hello everyone how are you here i am ankit bhardwaj looking for  good job i have a huge interest in java and making project now i am working on a project amc monitoring portal 
 let me introduce that project to you in that project you people can give or assign task to 
-the people and there is 2 interfeces as one is for admin and others for peoples you are joing in your orginisation.
+the people and there is 2 interfeces as one is for admin and others for peoples you are joing in your orginisation. so this is for second task 
